@@ -1,0 +1,7 @@
+FirstName="Narges"
+LastName="Javadi"
+Age=18
+Height=1.65
+Weight=60
+FieldOfStudy="computer engineering"
+Goal="AI programming"
